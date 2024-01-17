@@ -1,4 +1,7 @@
 ### hello world
+
+![](https://komarev.com/ghpvc/?username=anthonykimani&label=Profile%20views&color=0e75b6&style=flat)
+
 ## 📊 statistics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pydragon1&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pydragon1&theme=dark) 
