@@ -3,8 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=pydragon1&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 📊 statistics
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pydragon1&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pydragon1&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pydrag0n&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pydrag0n&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pydrag0n&theme=dark)
 
 ## 📃 languages
