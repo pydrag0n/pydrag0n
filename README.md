@@ -1,4 +1,4 @@
-![](https://github.com/pydrag0n/pydrag0n/blob/main/tenor.gif)
+change my mind
 <!--
 ![](https://komarev.com/ghpvc/?username=pydragon1&label=Profile%20views&color=0e75b6&style=flat)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pydrag0n&theme=dark)
